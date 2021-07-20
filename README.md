@@ -1,3 +1,5 @@
 # Heart Disease prediction
- https://www.kaggle.com/ronitf/heart-disease-uci
-https://archive.ics.uci.edu/ml/datasets/heart+Disease
+
+Data set
+1) https://www.kaggle.com/ronitf/heart-disease-uci
+2) https://archive.ics.uci.edu/ml/datasets/heart+Disease
